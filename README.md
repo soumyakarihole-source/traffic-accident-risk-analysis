@@ -23,5 +23,35 @@ High numbers of accidents occur at intersections and highways due to traffic con
 ## Success Criteria
 - Reduce accidents at identified high-risk zones by at least 20%.
 
+## Dataset
+Traffic accident dataset containing accident records, road conditions, locations, and traffic-related information.
+
+## Project Components
+- Data Preprocessing using Python
+- Exploratory Data Analysis (EDA)
+- SQL-based Statistical Analysis
+- Power BI Dashboard Development
+- High-Risk Zone Identification
+
+## Repository Structure
+data/
+images/
+notebooks/
+reports/
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- Excel
+
+## Dashboard Insights
+- Accident & Risk Analysis
+- Safety & Violations Analysis
+- Traffic Overview
+- Location & Infrastructure Analysis
+
 ## Author
 Soumya Karihole
